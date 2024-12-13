@@ -1,0 +1,26 @@
+#d1{
+    width:500px;
+    height:500px;
+    float:left;
+    border:double black 10px;
+    background-image:url("venkatesh3.jpg");
+    background-size:600px 500px;
+    background-repeat:no-repeat;
+    background-position: top left;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 140px;
+    color:aqua
+
+}
+#heading:hover
+{
+ color: green;
+}
+#d1:hover
+{
+    box-shadow: 0px 0px 20px red;
+    border-style: solid;
+}
